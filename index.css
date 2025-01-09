@@ -1,0 +1,21 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+    padding-left: 10;
+}
+
+
+
+
+.ab1{
+    color: brown;
+    background-color: black;
+    width: 100%;
+text-align: center;}
+
+.ab2{
+    background-color:black;
+    color:cyan;
+    border: 10px;
+    border-color: aqua;
+}
